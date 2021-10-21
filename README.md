@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannifranco1&label=Profile%20views&color=0e75b6&style=flat" alt="giovannifranco1" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannifranco1&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="giovannifranco1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannifranco1&theme=tokyonight&show_icons=true&locale=en" style="heght:500px;" alt="giovannifranco1" /></p>
+
 <p align="left"> <a href="https://twitter.com/caipira_fr" target="blank"><img src="https://img.shields.io/twitter/follow/caipira_fr?logo=twitter&style=for-the-badge" alt="caipira_fr" /></a> </p>
 
 - 🔭 I’m currently working on **Personal projects and University ones.**
