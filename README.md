@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I hate everything Jsf related.**
 
+- 📄 **See my** <a href="https://drive.google.com/file/d/1SFU1fAD3iqwfug6KQPta31-KXAfk1nKQ/view?usp=sharing">curriculum</a> **for more information.**
+
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.instagram.com/grezende_fr" alt="Instagram" target="_blank">
