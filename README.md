@@ -30,7 +30,7 @@
 <a href="mailto:giovannifrancorezende2012@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://twitter.com/caipira_fr" alt="Linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/giovanni-franco-rezende-1a2421216/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
