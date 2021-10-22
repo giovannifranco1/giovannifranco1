@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I hate everything Jsf related.**
 
-- 📄 **See my** <a href="https://drive.google.com/file/d/1SFU1fAD3iqwfug6KQPta31-KXAfk1nKQ/view?usp=sharing" target="_blank">curriculum</a> **for more information.**
+- 📄 **See my** <a href="https://drive.google.com/file/d/1SFU1fAD3iqwfug6KQPta31-KXAfk1nKQ/view?usp=sharing" alt="Curriculum" target="_blank">curriculum</a> **for more information.**
 
 <h3 align="left">Connect with me:</h3>
 
