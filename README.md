@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannifranco1&label=Profile%20views&color=0e75b6&style=flat" alt="giovannifranco1" /> </p>
 
-<img width="420" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannifranco1&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="giovannifranco1" />
-<img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=giovannifranco1&theme=tokyonight&show_icons=true&locale=en" style="heght:500px;" alt="giovannifranco1" />
+<img width="333" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannifranco1&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="giovannifranco1" />
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=giovannifranco1&theme=tokyonight&show_icons=true&locale=en" style="heght:500px;" alt="giovannifranco1" />
 
 
 - 🔭 I’m currently working on **Personal projects and University ones.**
