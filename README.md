@@ -7,6 +7,8 @@
 
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=giovannifranco1&theme=tokyonight&show_icons=true&locale=en" style="heght:500px;" alt="giovannifranco1" />
 
+<br>
+
 - 🔭 I’m currently working on **Personal projects and University ones.**
 
 - 🌱 I’m currently learning **Test-driven development**
